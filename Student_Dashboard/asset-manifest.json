@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dikovandermeer.github.io/Student_Dashboard/static/css/main.a6d5a67b.css",
+    "main.js": "/dikovandermeer.github.io/Student_Dashboard/static/js/main.97323091.js",
+    "static/js/787.e7275ad5.chunk.js": "/dikovandermeer.github.io/Student_Dashboard/static/js/787.e7275ad5.chunk.js",
+    "static/media/studentRatings.csv": "/dikovandermeer.github.io/Student_Dashboard/static/media/studentRatings.41e1663b406117456642.csv",
+    "index.html": "/dikovandermeer.github.io/Student_Dashboard/index.html",
+    "main.a6d5a67b.css.map": "/dikovandermeer.github.io/Student_Dashboard/static/css/main.a6d5a67b.css.map",
+    "main.97323091.js.map": "/dikovandermeer.github.io/Student_Dashboard/static/js/main.97323091.js.map",
+    "787.e7275ad5.chunk.js.map": "/dikovandermeer.github.io/Student_Dashboard/static/js/787.e7275ad5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6d5a67b.css",
+    "static/js/main.97323091.js"
+  ]
+}
